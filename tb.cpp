@@ -14,7 +14,7 @@
 #include "inference.h"
 
 #ifndef TEST_DATA_ROOT
-#define TEST_DATA_ROOT "output_headers_9"
+#define TEST_DATA_ROOT "output_headers"
 #endif
 
 // ============================================================
