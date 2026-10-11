@@ -1,5 +1,5 @@
-#include "inference.h"
-#include "model_weights_94class.h"
+#include "inference_ASCII.h"
+#include "WEIGHTS_ASCII.h"
 #include <cstdint>
 
 // ============================================================================
