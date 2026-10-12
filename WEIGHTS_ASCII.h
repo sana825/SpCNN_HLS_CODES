@@ -1,7 +1,7 @@
 #ifndef MODEL_WEIGHTS_H
 #define MODEL_WEIGHTS_H
 
-#include "/home/user03/SANA_PROJECTS/DSE5/STAGE_1_FIXED/hls_component/./inference.h"
+#include "inference_ASCII.h"
 #include <math.h>
 
 fixed_t conv1_real[8192] = {
